@@ -11,7 +11,7 @@ This is a simple web-based restaurant menu that fetches data from a Google Sheet
 
 ## Demo
 
-[![Demo Image](link-to-demo-image)](https://codepen.io/Abqariyuh-A-A-Yusuf/full/qBGeEzE)
+https://codepen.io/Abqariyuh-A-A-Yusuf/full/qBGeEzE
 
 ## Prerequisites
 
