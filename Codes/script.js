@@ -1,6 +1,6 @@
 // Function to fetch data from Google Sheets
 async function fetchData() {
-    const apiKey = 'AIzaSyBImP6yri7RZSulRkjlQ5TyJ7Sv51nin0g'; // Replace with your actual API key
+    const apiKey = 'YOUR_RESTRICTED_API_KEY'; // Replace with your actual API key
     const sheetId = '1GbXxAkgTFVERTEAvrw-4MCULrhWzR3h4Uy5XnoI467E'; // Replace with your actual Sheet ID
     const range = 'Sheet1!A1:C100'; // Adjust range as per your sheet structure
 
