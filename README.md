@@ -28,7 +28,8 @@ https://codepen.io/Abqariyuh-A-A-Yusuf/full/qBGeEzE
     - Column A: Section name (e.g., "Finger Foods")
     - Column B: Item name (e.g., "Chicken Wings")
     - Column C: Item price (e.g., "N3,000")
- View or download the [Google Sheets template](https://docs.google.com/spreadsheets/d/1GbXxAkgTFVERTEAvrw-4MCULrhWzR3h4Uy5XnoI467E/view)
+
+View or download the [Google Sheets template](https://docs.google.com/spreadsheets/d/1GbXxAkgTFVERTEAvrw-4MCULrhWzR3h4Uy5XnoI467E/view)
 
 ### Step 2: Get Google Sheets API Key
 
